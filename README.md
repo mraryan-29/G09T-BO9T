@@ -1,5 +1,5 @@
-![1000076338](https://github.com/user-attachments/assets/8cdc2ce8-2133-46b4-ba74-3f5bc56a633f
-)
+![1000064310](https://github.com/user-attachments/assets/920d9034-25ff-43a6-bc68-6751092975a0)
+
 
 KOI BHI CODE KO JYADA NA EDIT KAREN WARNA APKE BOT ME ERROR AA SAKTA HAI 
 
@@ -11,3 +11,7 @@ KARAN JALVANSHI FB ID :- https://www.facebook.com/Legend.king.jalvanshi
 CREDIT SAHIL PRAJAPATI 
 
 SAHIL PRAJAPATI FB ID :- https://www.facebook.com/profile.php?id=100040009717781
+
+
+![1000067489](https://github.com/user-attachments/assets/811b9424-f4d5-43d7-80cc-596605fefa35)
+
