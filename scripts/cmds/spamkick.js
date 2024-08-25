@@ -37,7 +37,7 @@ module.exports = {
     } else {
       messageCounts[threadID][senderID].count++;
       if (messageCounts[threadID][senderID].count > spamThreshold) {
-        api.sendMessage("🛡️ | Detected spamming. The bot will remove the user from the group", threadID, messageID);
+        api.sendMessage("Anti spam mode on | admin mujhe admin de taki jo same msg spam ki trha bar bar kare usko grup se nikal dun", threadID, messageID);
         api.removeUserFromGroup(senderID, threadID);
       }
     }
