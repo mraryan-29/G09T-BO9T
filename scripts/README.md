@@ -1,0 +1,6 @@
+![1000067489](https://github.com/user-attachments/assets/3ecc2ad1-0223-49f9-a968-c2c16171866a)
+
+OWNER KARAN JALVANSHI 
+
+
+KOI BHI CMD SOCH KE EDIT KAREN WARNA ERROR AA SAKTA HAI 
