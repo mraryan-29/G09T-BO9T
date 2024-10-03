@@ -17,21 +17,21 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100093685579556",
-    "100040009717781",
-    "7986823578029167"
+    "100071221718847",
+    "100088054634569",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "KARAN JALVANSHI",
+  "OWNER": "ARYAN OIIX",
   "AGE": "20",
   "GENDER": "MALE",
-  "nickNameBot": "Sarkari gf",
-  "FACEBOOK": "https://www.facebook.com/Legend.king.jalvanshi",
-  "prefix": ",",
+  "nickNameBot": "Azam ka asli jija",
+  "FACEBOOK": "https://www.facebook.com/azam.bhadwe.ka.jija.aryan.here?mibextid=ZbWKwL",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
